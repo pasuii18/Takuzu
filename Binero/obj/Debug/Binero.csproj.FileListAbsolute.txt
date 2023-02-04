@@ -1,0 +1,10 @@
+C:\Users\heaka\Desktop\Binero\Binero\bin\Debug\Binero.exe
+C:\Users\heaka\Desktop\Binero\Binero\bin\Debug\Binero.pdb
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Binero.csproj.AssemblyReference.cache
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Binero.csproj.SuggestedBindingRedirects.cache
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Binero.Form1.resources
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Binero.Properties.Resources.resources
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Binero.csproj.GenerateResource.cache
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Binero.csproj.CoreCompileInputs.cache
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Binero.exe
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Binero.pdb

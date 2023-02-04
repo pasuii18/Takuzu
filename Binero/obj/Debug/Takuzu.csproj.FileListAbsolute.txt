@@ -1,0 +1,40 @@
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Takuzu.csproj.AssemblyReference.cache
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Takuzu.csproj.SuggestedBindingRedirects.cache
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Takuzu.Form1.resources
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Takuzu.csproj.GenerateResource.cache
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Takuzu.csproj.CoreCompileInputs.cache
+C:\Users\heaka\Desktop\Binero\Binero\bin\Debug\Takuzu.exe
+C:\Users\heaka\Desktop\Binero\Binero\bin\Debug\Takuzu.pdb
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Takuzu.Properties.Resources.resources
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Takuzu.exe
+C:\Users\heaka\Desktop\Binero\Binero\obj\Debug\Takuzu.pdb
+C:\Users\heaka\Desktop\Saves\Binero(28.11 17.12)\Binero\bin\Debug\Takuzu.exe
+C:\Users\heaka\Desktop\Saves\Binero(28.11 17.12)\Binero\bin\Debug\Takuzu.pdb
+C:\Users\heaka\Desktop\Saves\Binero(28.11 17.12)\Binero\obj\Debug\Takuzu.csproj.AssemblyReference.cache
+C:\Users\heaka\Desktop\Saves\Binero(28.11 17.12)\Binero\obj\Debug\Takuzu.csproj.SuggestedBindingRedirects.cache
+C:\Users\heaka\Desktop\Saves\Binero(28.11 17.12)\Binero\obj\Debug\Takuzu.Form1.resources
+C:\Users\heaka\Desktop\Saves\Binero(28.11 17.12)\Binero\obj\Debug\Takuzu.Properties.Resources.resources
+C:\Users\heaka\Desktop\Saves\Binero(28.11 17.12)\Binero\obj\Debug\Takuzu.csproj.GenerateResource.cache
+C:\Users\heaka\Desktop\Saves\Binero(28.11 17.12)\Binero\obj\Debug\Takuzu.csproj.CoreCompileInputs.cache
+C:\Users\heaka\Desktop\Saves\Binero(28.11 17.12)\Binero\obj\Debug\Takuzu.exe
+C:\Users\heaka\Desktop\Saves\Binero(28.11 17.12)\Binero\obj\Debug\Takuzu.pdb
+C:\Users\heaka\Desktop\Tohu wa Vohu(28.11 17.12)\Binero\bin\Debug\Takuzu.exe
+C:\Users\heaka\Desktop\Tohu wa Vohu(28.11 17.12)\Binero\bin\Debug\Takuzu.pdb
+C:\Users\heaka\Desktop\Tohu wa Vohu(28.11 17.12)\Binero\obj\Debug\Takuzu.csproj.AssemblyReference.cache
+C:\Users\heaka\Desktop\Tohu wa Vohu(28.11 17.12)\Binero\obj\Debug\Takuzu.csproj.SuggestedBindingRedirects.cache
+C:\Users\heaka\Desktop\Tohu wa Vohu(28.11 17.12)\Binero\obj\Debug\Takuzu.Form1.resources
+C:\Users\heaka\Desktop\Tohu wa Vohu(28.11 17.12)\Binero\obj\Debug\Takuzu.Properties.Resources.resources
+C:\Users\heaka\Desktop\Tohu wa Vohu(28.11 17.12)\Binero\obj\Debug\Takuzu.csproj.GenerateResource.cache
+C:\Users\heaka\Desktop\Tohu wa Vohu(28.11 17.12)\Binero\obj\Debug\Takuzu.csproj.CoreCompileInputs.cache
+C:\Users\heaka\Desktop\Tohu wa Vohu(28.11 17.12)\Binero\obj\Debug\Takuzu.exe
+C:\Users\heaka\Desktop\Tohu wa Vohu(28.11 17.12)\Binero\obj\Debug\Takuzu.pdb
+C:\Users\heaka\Desktop\Tohu wa Vohu\Binero\bin\Debug\Takuzu.exe
+C:\Users\heaka\Desktop\Tohu wa Vohu\Binero\bin\Debug\Takuzu.pdb
+C:\Users\heaka\Desktop\Tohu wa Vohu\Binero\obj\Debug\Takuzu.csproj.AssemblyReference.cache
+C:\Users\heaka\Desktop\Tohu wa Vohu\Binero\obj\Debug\Takuzu.csproj.SuggestedBindingRedirects.cache
+C:\Users\heaka\Desktop\Tohu wa Vohu\Binero\obj\Debug\Takuzu.Form1.resources
+C:\Users\heaka\Desktop\Tohu wa Vohu\Binero\obj\Debug\Takuzu.Properties.Resources.resources
+C:\Users\heaka\Desktop\Tohu wa Vohu\Binero\obj\Debug\Takuzu.csproj.GenerateResource.cache
+C:\Users\heaka\Desktop\Tohu wa Vohu\Binero\obj\Debug\Takuzu.csproj.CoreCompileInputs.cache
+C:\Users\heaka\Desktop\Tohu wa Vohu\Binero\obj\Debug\Takuzu.exe
+C:\Users\heaka\Desktop\Tohu wa Vohu\Binero\obj\Debug\Takuzu.pdb
